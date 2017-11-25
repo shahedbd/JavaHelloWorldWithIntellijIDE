@@ -8,6 +8,13 @@ A simple java console application with intellij IDE.
 
 # Code Arrange: Ctrl + Alt + L
 
+# Plugin Download
+Ctrl + Shift + A
+Type: Plugins
+Click: Enter Plugins
+Click: Browse repositories
+
+
 
 # Download JDK
 http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html
