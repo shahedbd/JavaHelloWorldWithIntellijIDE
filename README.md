@@ -35,6 +35,8 @@ You can easily rename your classes, methods and variables with automatic correct
 To try it, place the caret at the symbol you want to rename, and press Shift+F6 (Refactor | Rename). Type the new name in the popup window that appears, or select one of the suggested names, and press Enter.
 
 
+## Editor Zooming
+https://www.jetbrains.com/help/idea/zooming-in-the-editor.html
 
 
 
